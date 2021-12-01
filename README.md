@@ -47,6 +47,5 @@ One of the major things I learnt was how to use Linear Gradient to put a backgou
 
 ## Author
 
-- Website - [Okeoghene Eunice](https://www.your-site.com)
-- Frontend Mentor - [@Igho-okeoghene](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@okegheneigho](https://www.twitter.com/yourusername)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Igho-Okeoghene](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@okeogheneigho](https://www.twitter.com/yourusername)
