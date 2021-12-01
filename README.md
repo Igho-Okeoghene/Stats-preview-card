@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Igho-Okeoghene/Stats-preview-card](https://your-solution-url.com)
-- Live Site URL: [https://igho-okeoghene.github.io/Stats-preview-card/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Igho-Okeoghene/Stats-preview-card](https://github.com/Igho-Okeoghene/Stats-preview-card)
+- Live Site URL: [https://igho-okeoghene.github.io/Stats-preview-card/](https://igho-okeoghene.github.io/Stats-preview-card)
 
 ### Built with
 
@@ -47,5 +47,5 @@ One of the major things I learnt was how to use Linear Gradient to put a backgou
 
 ## Author
 
-- Frontend Mentor - [@Igho-Okeoghene](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@okeogheneigho](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Igho-Okeoghene](https://www.frontendmentor.io/profile/Igho-Okeoghene)
+- Twitter - [@okeogheneigho](https://www.twitter.com/okeogheneigho)
